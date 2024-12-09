@@ -9,7 +9,8 @@ No fancy game engines, just..... C++, SDL, and OpenGl
 
 Mainly proof concept code to get the project started
 
-UPDATE 9/DEc/2024
+UPDATE 9/DE
+9/Dec/2024
 I am now retired so hoping to actually have time to develop this !
 
 
